@@ -2,4 +2,6 @@ fastapi
 sqlalchemy
 uvicorn
 pydantic
-
+numpy
+scikit-learn
+torch
