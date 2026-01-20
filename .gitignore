@@ -1,3 +1,8 @@
 backend/venv/
 main.db
 __pycache__/
+backend/__pycache__/
+backend/mlflow.db
+backend/scripts/mlflow.db
+backend/scripts/mlartifacts
+backend/mlartifacts

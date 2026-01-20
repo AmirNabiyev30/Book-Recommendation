@@ -1,7 +1,10 @@
 fastapi
+fastapi[standard]
 sqlalchemy
 uvicorn
 pydantic
 numpy
 scikit-learn
 torch
+mlflow
+pandas
